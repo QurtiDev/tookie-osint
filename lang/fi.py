@@ -74,16 +74,16 @@ permission_denied = "Käyttöoikeus evätty: {operation} kohteessa {path}"
 note = "Muista! "
 path = "tiedostopolku: ⤷ "
 warning1 = (
-    "Monet sivutot eivät välttämättä salli heidän tiedostojensa lataamista. Käyttö omalla vastuulla"
+    "Monet sivustot eivät välttämättä salli tiedostojen lataamista. Käyttö omalla vastuulla!"
 )
 warning2 = " Sivujen kaivelu voi olla vähän hidasta..."
 # Tämä on ensimmäinen käy
-warning3 = " Tää on sun ensimmäinen käynnistys :D Saatat joutua käynnistämään tookie-osintin uudestaan, jotta kaikki moduulit ois käytettävissä."
+warning3 = " Eka kerta?! :D Saatat joutua käynnistämään tookie-osintin uudestaan, jotta kaikki moduulit ois käytettävissä."
 warning4 = " Käytät tookie-osintin esiversiota!"
 warning5 = "Syötä kohde ennen jatkamista:: "
 
 confirm1 = "Haluatko ladata kuvia/videoita? [K/e] ⤷ "
-confirm2 = "Ajetaan uudelleen? [K/e] ⤷ "
+confirm2 = "Suorita uudelleen? [K/e] ⤷ "
 
 prompt1 = "Syötä sivu uudelleen.: ⤷ "
 prompt2 = "Ilmoitathan mahdollisista bugeista luomalla issueita repossa tai raportoimalla ne meidän Discord servulla. "
@@ -109,8 +109,8 @@ status5 = "Testataan..."
 status6 = "Pysäytetään... Tallennettu tiedostoon captured/working.txt!"
 status7 = "Pysäytetään..."
 
-save1 = "Tallennettiin tulokset"
-save2 = "Tallennettiin tulokset tiedostoon"
+save1 = "Tulokset tallennettu"
+save2 = "Tulokset tallennettiin tiedostoon"
 
 error1 = "Lupa virhe!"
 error2 = "Kirjoitus virhe!"
